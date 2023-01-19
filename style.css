@@ -1,0 +1,42 @@
+* {
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: black;
+	background-color: white;
+}
+body {
+	margin-bottom:50px
+}
+#home h1 {
+  color: black;
+  font-size: 5em;
+  text-align: center;
+}
+#bios h1 {
+  color: black;
+  font-size: 60 px;
+  text-align: left;
+}
+#bios h1 p {
+	padding-right: 20 px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 50%
+  width: 100%;
+  background-color: black;
+  text-align: center;
+  font-size: 50 px;
+}
+
+
+/*h2 {
+  color: red;
+  margin-left: 20px;
+}
+h6 {
+  color: red;
+  margin-left: 20px;
+}*/
