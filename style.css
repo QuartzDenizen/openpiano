@@ -18,7 +18,9 @@ body {
 }
 
 img {
-	vertical-align: left;
+	/*vertical-align: left;*/
+	text-align: left;
+	display: block;
 }
 
 #bios h1 p {
