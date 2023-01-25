@@ -20,8 +20,8 @@ body {
 img {
 	/*vertical-align: left;*/
 	text-align: left;
-	display: block;
-	float: left;
+	display: inline-block;
+	/*float: left;*/
 }
 
 #bios h1 p {
