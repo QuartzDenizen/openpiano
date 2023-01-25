@@ -16,6 +16,11 @@ body {
   font-size: 60 px;
   text-align: left;
 }
+
+img {
+	vertical-align: left;
+}
+
 #bios h1 p {
 	padding-right: 20 px;
 }
