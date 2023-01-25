@@ -24,6 +24,11 @@ img {
 	/*float: left;*/
 }
 
+.container {
+  border: 1px solid black;
+  white-space: nowrap; /** force the elements to stay side by side **/
+}
+
 #bios h1 p {
 	padding-right: 20 px;
 }
