@@ -28,7 +28,7 @@ img {
 	padding-right: 20 px;
 }
 
-#wrap { width:100px; height:100px; }
+#wrap { width:500px; margin:0 auto; }
 
 .footer {
   position: fixed;
