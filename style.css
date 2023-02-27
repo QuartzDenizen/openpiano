@@ -11,7 +11,7 @@ body {
   font-size: 5em;
   text-align: center;
 }
-#bios h1 {
+#bios body {
   color: red;
   font-size: 400 px;
   text-align: left;
