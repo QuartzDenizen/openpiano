@@ -11,7 +11,7 @@
   font-size: 5em;
   text-align: center;
 }
-#bios {
+#bios p{
   font-size: 400 px;
   text-align: left;
 }
@@ -36,9 +36,9 @@ p {
   vertical-align: middle
 }
 
-#bios h1 p {
+/*#bios h1 p {
 	padding-right: 20 px;
-}
+}*/
 
 #wrap { max-width:90%; margin:0 auto; }
 /* put a better page navigation later
