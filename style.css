@@ -3,16 +3,15 @@
 	color: black;
 	background-color: white;
 }
-body {
+/*body {
 	margin-bottom:50px;
-}
+}*/
 #home h1 {
   color: black;
   font-size: 5em;
   text-align: center;
 }
 #bios {
-  color: red;
   font-size: 400 px;
   text-align: left;
 }
