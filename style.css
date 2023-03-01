@@ -17,14 +17,12 @@
 }
 
 img {
-	/*vertical-align: left;*/
-	align: left;
 	display: inline-block;
 	border: 2px solid black; 
 	margin-right: 10px; 
 	max-height: 500px; 
 	max-width: 500px; 
-	/*float: left;*/
+	float: left;
 }
 
 .container {
