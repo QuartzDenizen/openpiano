@@ -20,6 +20,7 @@ img {
 	/*vertical-align: left;*/
 	text-align: left;
 	display: inline-block;
+	margin: 5px;
 	/*float: left;*/
 }
 
