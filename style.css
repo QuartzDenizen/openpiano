@@ -15,7 +15,11 @@
 #bios p{
   font-size: 18px;
   text-align: left;
+  */margin-left: 10px;*/
   margin-right: 40px;
+  display: inline-block;
+  white-space: normal;
+  vertical-align: middle
 }
 
 #bios h1{
