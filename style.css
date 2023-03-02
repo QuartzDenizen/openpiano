@@ -36,14 +36,14 @@ img {
   border: 1px solid black;
   white-space: nowrap; /** force the elements to stay side by side **/
 }
-
+/*
 p {
   display: inline-block;
-  /*width: 10%; /** containers width - img width - margin-left **/
+  //width: 10%; /** containers width - img width - margin-left
   margin-left: 10px;
   white-space: normal;
   vertical-align: middle
-}
+}*/
 /*#bios h1 p {
 
 	padding-right: 20 px;
