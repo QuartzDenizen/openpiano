@@ -33,7 +33,7 @@ img {
 	border: 2px solid black; 
 	margin-right: 40px;
 	max-width: 500px; 
-	image-orientation: from-image; 
+	image-orientation: none; 
 	/*not sure why but piano and kevin were displaying wrong way on edge, but perfectly fine on firefox */
 	/*float: left; maybe not needed*/
 }
