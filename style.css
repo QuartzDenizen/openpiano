@@ -26,16 +26,18 @@
 #bios h1{
 	margin-left: 40px;
 }
-/*
+
 img {
 	display: inline-block;
 	margin-left: 40px;
 	border: 2px solid black; 
 	margin-right: 40px;
 	max-width: 500px; 
-	/*float: left; maybe not needed
+	image-orientation: from-image; 
+	/*not sure why but piano and kevin were displaying wrong way on edge, but perfectly fine on firefox */
+	/*float: left; maybe not needed*/
 }
-*/
+
 .container {
   border: 1px solid black;
   white-space: nowrap; /** force the elements to stay side by side **/
