@@ -25,7 +25,8 @@
 }
 
 #bios h1{
-	margin-left: 40px;
+	margin-left: 220px;
+	/*try inline block next*/
 }
 
 img {
