@@ -16,8 +16,8 @@
   font-size: 18px;
   text-align: left;
   /*margin-left: 10px;*/
-  margin-right: 120px;
-  margin-left: 120px;
+  margin-right: 40px;
+  margin-left: 40px;
   display: inline-block;
   white-space: normal;
   vertical-align: middle;
@@ -40,6 +40,8 @@ img {
 
 .container {
   border: 1px solid black;
+  margin-left: 180px;
+  margin-right: 180px;
   white-space: nowrap; /** force the elements to stay side by side **/
 }
 /*
