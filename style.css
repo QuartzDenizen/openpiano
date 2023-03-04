@@ -30,10 +30,10 @@
 
 img {
 	display: inline-block;
-	/*margin-left: 40px;*/
-	border: 2px solid black; 
-	margin-right: 40px;
+	margin-left: 40px;	
+	margin-right: 40px;	
 	max-width: 500px;
+	border: 2px solid black; 
 	/*not sure why but piano and kevin were displaying wrong way on edge, but perfectly fine on firefox */
 	/*float: left; maybe not needed*/
 }
